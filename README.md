@@ -1,2 +1,2 @@
 # yuedm.github.io
-yuedm的博客
+yuedm的博客[http://yuedm.github.io]
