@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.yuedanming.com/</id>
+    <title>岳丹明</title>
+    <updated>2022-01-04T07:33:22.126Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.yuedanming.com/"/>
+    <link rel="self" href="https://www.yuedanming.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://www.yuedanming.com/images/avatar.png</logo>
+    <icon>https://www.yuedanming.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, 岳丹明</rights>
+</feed>
